@@ -1,0 +1,7 @@
+.App {
+  position: relative;
+  background-color: powderblue;
+  max-width: 400px;
+  margin: 40px auto;
+  font-size: 18px;
+}
